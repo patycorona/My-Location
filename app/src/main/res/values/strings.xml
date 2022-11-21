@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Location</string>
+    <string name="name">Amanda Patricia Corona Henández</string>
+    <string name="text_location">My Coordinates</string>
+    <string name="text_photo">Photo</string>
+    <string name="text_job_title">Android Engineer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_welcome">Welcome Home!</string>
+    <string name="title_photography">Selfie</string>
+    <string name="app_salir">go out</string>
+    <string name="text_save">Save</string>
+    <string name="request_permission">Ve a ajustes y acepta los permisos</string>
+    <string name="msg_request_permission">Para activar la localización veya a ajustes y acepta los permisos</string>
+    <string name="request_permission_gps">No esta activo el GPS, favor de activarlo</string>
+    <string name="msg">Usted está aquí</string>
+    <string name="Dark_Mode">Change Theme Mode</string>
+</resources>
